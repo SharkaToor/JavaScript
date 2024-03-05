@@ -1,1 +1,9 @@
-// sharka
+// sharka 
+
+
+// Arithmetic Operators
+// Assignment Operators
+// Comparison Operators
+// Logical Operators
+// Conditional Operators
+// Type Operators
