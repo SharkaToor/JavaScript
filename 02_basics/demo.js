@@ -37,16 +37,16 @@
 // fnctions demo otherwise error
 
 
-let x = 10;
+// let x = 10;
 
-if (x >= 5) {
-  document.write("x is greater than 5");
-} else if {
-  document.write("x is not greater than 5");
-} else if {
-    document.write("x is equal greater than 5");
-} else if {
-    document.write("x is less but not equal than 5");
-  } else {
-    document.write("x is greater but not equal than 5");
-  }
+// if (x >= 5) {
+//   document.write("x is greater than 5");
+// } else if {
+//   document.write("x is not greater than 5");
+// } else if {
+//     document.write("x is equal greater than 5");
+// } else if {
+//     document.write("x is less but not equal than 5");
+//   } else {
+//     document.write("x is greater but not equal than 5");
+//   }
