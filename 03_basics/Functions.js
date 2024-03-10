@@ -57,7 +57,7 @@ function handleObject(anyobject){
 handleObject({
     username: "sam",
     price: 399
-    );
+});
 
     const myNewArray = [300, 290, 399, 499]
     function returnSecondValue(getArray){
